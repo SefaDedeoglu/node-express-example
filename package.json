@@ -21,12 +21,10 @@
         "axios": "^0.26.1",
         "body-parser": "^1.19.1",
         "cors": "^2.8.5",
-        "discord.js": "^13.6.0",
         "dotenv": "^14.2.0",
         "express": "^4.17.2",
-        "node-telegram-bot-api": "^0.56.0",
-        "nodemon": "^2.0.15",
-        "web3": "^1.7.0"
+        "mongoose": "^6.3.5",
+        "nodemon": "^2.0.15"
     },
     "bugs": {
         "url": "https://github.com/SefaDedeoglu/node-express-example/issues"
