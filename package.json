@@ -1,0 +1,35 @@
+{
+    "name": "node-express-example",
+    "version": "1.0.0",
+    "description": "Author Sefa Dedeoğlu",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SefaDedeoglu/node-express-example.git"
+    },
+    "keywords": [
+        "node",
+        "js"
+    ],
+    "author": "SefaDedeoglu",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "body-parser": "^1.19.1",
+        "cors": "^2.8.5",
+        "discord.js": "^13.6.0",
+        "dotenv": "^14.2.0",
+        "express": "^4.17.2",
+        "node-telegram-bot-api": "^0.56.0",
+        "nodemon": "^2.0.15",
+        "web3": "^1.7.0"
+    },
+    "bugs": {
+        "url": "https://github.com/SefaDedeoglu/node-express-example/issues"
+    },
+    "homepage": "https://github.com/SefaDedeoglu/node-express-example#readme"
+}
